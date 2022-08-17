@@ -1,7 +1,5 @@
 
-# Live version of website:
-
-[https://JuliaWSU.github.io](https://JuliaWSU.github.io)
+# Live version of [website](https://JuliaWSU.github.io)
 
 **[Become a sponsor for Beautiful Jekyll and unlock special rewards\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**
 
