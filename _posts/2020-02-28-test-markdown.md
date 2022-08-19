@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Favorite One-line Julia Hacks.
-subtitle: Each post also has a subtitle
+subtitle: Please share with us your favorite online hacks (in any language).
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
