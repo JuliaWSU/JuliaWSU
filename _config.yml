@@ -23,6 +23,7 @@ navbar-links:
   About Julia@wsu: aboutme
   Resources:
     - Learn Julia: "https://julialang.org/learning/"
+    - Interesting talk at JuliaCon 2022 "https://pretalx.com/juliacon-2022/talk/UTTHUM/"
 
 ################
 # --- Logo --- #
