@@ -2,7 +2,7 @@
 layout: post
 title: Favorite One-line Julia Hacks.
 subtitle: Please share with us your favorite online hacks (in any language).
-gh-repo: daattali/beautiful-jekyll
+gh-repo: JuliaWSU/JuliaWSU.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
