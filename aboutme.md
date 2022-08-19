@@ -9,4 +9,4 @@ subtitle: Why would you want to switch from Python to Julia, or R to Julia for t
 3. code execution and energy efficiency.
 
 
-![assets/imgs/why_julia1.png](assets/imgs/why_julia1.png)
+![assets/img/why_julia1.png](assets/img/why_julia1.png)
