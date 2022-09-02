@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-Please share with us your favorite Julia one line hacks in the comments section below.
+Please share with us your favorite Julia one-line hacks in the comments section below.
 
 If we like what we see (probably we will), we can move content from comments to web-content.
 
